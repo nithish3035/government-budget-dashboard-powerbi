@@ -25,15 +25,15 @@ This dashboard tracks government budget allocation, expenditure, scheme performa
 
 ## 📸 Dashboard Screenshots
 
-[![Overview](Screenshot_2026-07-08_150920.png)](Screenshot_2026-07-08_150920.png)
+[![Overview](Screenshot%202026-07-08%20150920.png)](Screenshot%202026-07-08%20150920.png)
 
-[![Department](Screenshot_2026-07-08_151009.png)](Screenshot_2026-07-08_151009.png)
+[![Department](Screenshot%202026-07-08%20151009.png)](Screenshot%202026-07-08%20151009.png)
 
-[![Schemes](Screenshot_2026-07-08_151143.png)](Screenshot_2026-07-08_151143.png)
+[![Schemes](Screenshot%202026-07-08%20151143.png)](Screenshot%202026-07-08%20151143.png)
 
-[![Variance](Screenshot_2026-07-08_151215.png)](Screenshot_2026-07-08_151215.png)
+[![Variance](Screenshot%202026-07-08%20151215.png)](Screenshot%202026-07-08%20151215.png)
 
-[![Insights](Screenshot_2026-07-08_152020.png)](Screenshot_2026-07-08_152020.png)
+[![Insights](Screenshot%202026-07-08%20152020.png)](Screenshot%202026-07-08%20152020.png)
 
 ## 📈 Key Insights
 - Identified 11 schemes exceeding their budget allocation
