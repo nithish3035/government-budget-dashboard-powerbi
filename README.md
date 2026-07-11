@@ -24,7 +24,11 @@ This dashboard tracks government budget allocation, expenditure, scheme performa
 - KPI cards for at-a-glance fiscal health monitoring
 
 ## 📸 Screenshots
-
+![Overview](overview-page.png)
+![Department](department-page.png)
+![Schemes](schemes-page.png)
+![Variance](variance-page.png)
+![Insights](insights-page.png)
 
 ## 📈 Key Insights
 - Identified 11 schemes exceeding their budget allocation
